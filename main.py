@@ -10,6 +10,7 @@ def main():
     Code Your Program here
     ########################################
     """
+    total = numbers
 
     # total = sum(numbers)
     print(total)
